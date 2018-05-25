@@ -1,0 +1,15 @@
+package com.ifmg.treinamentominicurso;
+
+/***
+ * 
+ * @author Talita
+ *
+ */
+public class TreinamentoCurso {
+
+	public static void main(String[] args) {
+		System.out.println("");
+		
+	}
+
+}
