@@ -9,7 +9,7 @@ public class TreinamentoCurso {
 
 	public static void main(String[] args) {
 		System.out.println("Treinamento MiniCurso - GitHub");
-		System.out.println("Alteração em developer");
+		System.out.println("Treinamento MiniCurso - GitHub");
 		
 	}
 
